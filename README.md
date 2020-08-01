@@ -10,6 +10,7 @@ Keyboard layout
 IBus Dvorak dvp in file simple.xml, you can replace the file in the path or add the engine dvp
 /usr/share/ibus/component/simple.xml
 
+replace or add the file .Xmodmap in ~/
 # Desktop i3
 
 All configuration are in file config
